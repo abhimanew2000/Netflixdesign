@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: sans-serif;
+
+}
+.firstpage{
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(header-image.png);
+    height: 97vh;
+    padding: 1.8% 0;
+}
+.navbar{
+    width: 96%;
+    margin: 0 auto;
+    height: 50px;
+}
+.navbar img{
+    height: 100%;
+    width: 12%;
+    margin: 2px;
+}
+.navbar .signin{
+    float: right;
+    color: white;
+    background-color: #db0001;
+    padding: 6px 3px;
+    width: 6%;
+    font-size: 1em;
+    border-radius: 5px;
+}
+.eng{
+    margin-right: 10px;
+    float: right;
+    color: white;
+    display: inline-flex;
+    align-items: center;
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 7px 10px;
+    border-radius: 5px;
+}
+.title{
+    color: white;
+    width: 50%;
+    margin: 12% auto;
+    text-align: center;
+}
+.title1{
+    font-size: 4em;
+    font-weight: bold;
+}
+.title2{
+    margin: 2px;
+    font-size:1.5em;
+    font-weight: 500;
+}
+.title3{
+    margin: 5% 0 2% 0;
+    font-size: 1.1em;
+    font-weight: 500;
+}
+.userinput{
+    width: 95%;
+    padding: 0;
+}
+#emailinput{
+    font-size: 1.1em;
+    padding: 3.5% 6px;
+    color: gray;
+    width: 65%;
+    margin: 0 0 0 2%;
+}
+#emailsubmitbtn{
+    vertical-align: middle;
+    padding: 3.3% 0;
+    color: black;
+    width: 30%;
+    background-color: #db0001;
+    font-size: 2em;
+    color: white;
+    font-weight: 500;
+    border-radius: 10px;
+
+}
+.netflixoptions{
+    border-top: 9px solid#222222;
+background-color: black;
+}
+.netflixoptionbox{
+    width: 80%;
+    margin: 0 auto;
+    padding: 4% 0;
+    height: 60vh;
+}
+.description{
+    width: 49%;
+    margin: 0;
+    padding: 5% 3%;
+    color:wheat;
+    float: left;
+}
+.firstoptionimage{
+    width: 49;
+    margin: 0;
+    height: 100%;
+    float: right;
+  
+}
+.firstoptionimage img{
+    width: 100%;
+    height: 100%;
+
+}
+.topdescription{
+    font-size: 3em;
+    font-weight: 600;
+
+}
+.bottomdescription{
+    margin-top: 1.5%;
+    font-size: 1.5em;
+    font-weight: 500;
+
+}
+.description1{
+    width: 49%;
+    margin: 0;
+    padding: 5% 3%;
+    color:wheat;
+    float: right;
+}
+.firstoptionimage1{
+    width: 49;
+    margin: 0;
+    height: 100%;
+    float: left;
+  
+}
+.firstoptionimage1 img{
+    width: 100%;
+    height: 100%;
+}
+.faq{
+    border-top: 9px solid #222222;
+    background-color: black;
+}
+.faqtext{
+    width:600;
+font-size:3em;
+font-weight: 600;
+margin: 0 auto;
+padding: 3.3% 0 2.5% 0;
+color: white;
+text-align: center;
+
+}
+
+.faqquestions{
+    margin-bottom: 2%;
+    border-top: 2px solid black;
+
+
+    font-size: 1.4em;
+    width: 55%;
+    margin:0 auto;
+    color: white;
+    padding: 1% 2%;
+    background-color: #303030;
+
+}
+#plussign{
+    float: right;
+}
+
